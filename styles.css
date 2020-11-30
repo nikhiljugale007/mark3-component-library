@@ -93,6 +93,13 @@ hr{
     display: block;
     margin: auto;
 }
+
+.blog-image{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
 .hero .hero-heading{
     color: var(--dark-gray);
     padding-top: 1rem;
@@ -140,3 +147,4 @@ footer{
 footer ul{
     padding-inline-start: 0px;
 }
+
