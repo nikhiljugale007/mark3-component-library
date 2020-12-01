@@ -102,7 +102,7 @@ hr{
     display: block;
     margin: auto;
 }
-    
+
 .hero .hero-heading{
     color: var(--dark-gray);
     padding-top: 1rem;
@@ -151,23 +151,13 @@ footer ul{
     padding-inline-start: 0px;
 }
 
-.blog-section-center{
-    max-width: 800px;
-    margin:auto;
-    font-size: 18px;
-}   
-
-.blog-section-center h1{
-    text-align:left;
-    padding: 0rem;
-}
-
-.border{
-    box-sizing: border-box;
-}
-
+/* blog  */
 .blog-container{
     max-width: 800px;
     margin:auto;
     background-color:var(--off-white);
 }  
+.blog-heading{
+    max-width: 800px;
+    margin:auto;
+}
