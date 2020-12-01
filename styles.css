@@ -102,7 +102,7 @@ hr{
     display: block;
     margin: auto;
 }
-
+    
 .hero .hero-heading{
     color: var(--dark-gray);
     padding-top: 1rem;
@@ -162,3 +162,12 @@ footer ul{
     padding: 0rem;
 }
 
+.border{
+    box-sizing: border-box;
+}
+
+.blog-container{
+    max-width: 800px;
+    margin:auto;
+    background-color:var(--off-white);
+}  
